@@ -2,7 +2,7 @@
 ID: 2321569
 zeri@chapman.edu
 CPSC298-01
-Assignment 1, Ch1 Ex1
+Assignment 1, Ch1 Ex4
 Program to find and print all of the prime numbers between 3 and 100.*/
 
 //declare all constants here

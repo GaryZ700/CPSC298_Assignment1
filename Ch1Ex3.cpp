@@ -2,7 +2,7 @@
 2321569
 zeri@chapman.edu
 CPSC298-01
-Assignment 1, Ch1 Ex1
+Assignment 1, Ch1 Ex3
 Program to calculate 6 months retroactive pay due to an employee, the employee's new salary, and the employee's new monthly salary based on a percentage pay increase.*/
 
 #include <iomanip>
@@ -44,7 +44,7 @@ void displayNewSalary(float previousSalary){
 
 	float yearlySalary = previousSalary * (1 + PAY_INCREASE);
 	float monthlyPay = yearlySalary / 12.0;
-	float retroactivePay = monthlyPay * 6.0;
+	float retroactivePay = previousSalary * PAY_INCREASE * 6;
 
 	ostringstream output;
 	output << fixed << setprecision(2);

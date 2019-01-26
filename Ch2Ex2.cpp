@@ -2,8 +2,8 @@
 ID: 2321569
 zeri@chapman.edu
 CPSC298-01
-Assignment 1, Ch1 Ex1
-Program to take meeting room capacity, and number of individuals attending the meeting to inform whether or not holding the meeting is legal.*/
+Assignment 1, Ch2 Ex2
+Program to how long it will take to pay of a debit with a certain interest rate and montly payment.*/
 
 #include <iostream>
 using namespace std;

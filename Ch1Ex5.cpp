@@ -2,7 +2,7 @@
 ID: 2321569
 zeri@chapman.edu
 CPSC298-01
-Assignment 1, Ch1 Ex1
+Assignment 1, Ch1 Ex5
 Program to take meeting room capacity, and number of individuals attending the meeting to inform whether or not holding the meeting is legal.*/
 
 #include "Menu.h"

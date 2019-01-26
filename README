@@ -2,7 +2,7 @@ Gary Zeri
 ID: 2321569
 Email: zeri@chapman.edu
 CPSC298-01
-Programming Assignment
+Programming Assignment 1
 
 Source Files:
 Ch1Ex1.cpp
@@ -41,20 +41,20 @@ References:
 
 How to run code:
 
-g++ Ch1Ex1.cpp Menu.cpp -o Ch1Ex1.cpp
-	./Ch1Ex1.cpp
+g++ Ch1Ex1.cpp -o Ch1Ex1.out
+	./Ch1Ex1.out
 
-g++ Ch1Ex3.cpp Menu.cpp -o Ch1Ex3.cpp
-	./Ch1Ex3.cpp
+g++ Ch1Ex3.cpp Menu.cpp -o Ch1Ex3.out
+	./Ch1Ex3.out
 
-g++ Ch1Ex5.cpp Menu.cpp -o Ch1Ex5.cpp
-	./Ch1Ex5.cpp
+g++ Ch1Ex5.cpp Menu.cpp -o Ch1Ex5.out
+	./Ch1Ex5.out
 
-g++ Ch2Ex2.cpp Menu.cpp -o Ch2Ex2.cpp
-	./Ch2Ex2.cpp
+g++ Ch2Ex2.cpp Menu.cpp -o Ch2Ex2.out
+	./Ch2Ex2.out
 
-g++ Ch2Ex4.cpp Menu.cpp -o Ch2Ex4.cpp
-	./Ch2Ex4.cpp
+g++ Ch2Ex4.cpp -o Ch2Ex4.out
+	./Ch2Ex4.out
 
-g++ Ch2Ex6.cpp Menu.cpp -o Ch2Ex6.cpp
-	./Ch2Ex6.cpp
+g++ Ch2Ex6.cpp Menu.cpp -o Ch2Ex6.out
+	./Ch2Ex6.out
